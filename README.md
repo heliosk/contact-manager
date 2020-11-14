@@ -1,2 +1,2 @@
 # contact-manager
-react+contextAPI
+node.js+react+contextAPI
